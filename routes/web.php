@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/','RecordController@index');
+Route::get('/about','RecordController@about');
+Route::get('/contact','RecordController@contact');
+Route::get('/portfolio','RecordController@portfolio');
+Route::get('/work','RecordController@work');
