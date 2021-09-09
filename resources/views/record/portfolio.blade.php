@@ -8,46 +8,46 @@
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Illustration, Branding</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Packaging</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding, Web</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_4.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Logo, Branding, Web</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_5.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Packaging, Branding</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_6.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block visible-sm-block"></div>
@@ -55,23 +55,23 @@
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Illustration</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_8.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding, Web</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Illustration, Branding</p>
+							<h3 class="fh5co-work-title">ジャンル名を記述します</h3>
+							<p>各ジャンルの代表名</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block"></div>
@@ -83,12 +83,12 @@
 			<div class="fh5co-narrow-content">
 				<div class="row">
 					<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-						<h1 class="fh5co-heading-colored">Start Your Project Now!</h1>
+						<h1 class="fh5co-heading-colored">好きな人物を登録</h1>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-						<p class="fh5co-lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<p class="fh5co-lead">以下のリンクから好きな人物が登録出来ます！</p>
 						<p><a href="#" class="btn btn-primary btn-outline">Get Started</a></p>
 					</div>
 					<div class="col-md-7 col-md-push-1">

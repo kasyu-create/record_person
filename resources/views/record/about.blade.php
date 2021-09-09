@@ -5,9 +5,9 @@
 			<div class="fh5co-narrow-content">
 				<div class="row">
 					<div class="col-md-5">
-						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">About Us Nitro <span>A Web Studio</span></h2>
-						<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						<p class="animate-box" data-animate-effect="fadeInLeft"> Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">はじめまして <span>東野 陽生です！</span></h2>
+						<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft">自己紹介</p>
+						<p class="animate-box" data-animate-effect="fadeInLeft">簡単な経歴</p>
 					</div>
 					<div class="col-md-6 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
 						<img src="images/img_1.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"> 
@@ -17,14 +17,14 @@
 			</div>
 
 			<div class="fh5co-narrow-content  animate-box" data-animate-effect="fadeInLeft">
-				<h2 class="fh5co-heading" >The Team</span></h2>
+				<h2 class="fh5co-heading" >このアプリについて</span></h2>
 
 				<div class="row">
 					<div class="col-md-4 fh5co-staff">
 						<img src="images/person3.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Athan Smith</h3>
-						<h4>Co-Founder, CEO</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<h3>やった事や経緯</h3>
+						<h4>補足</h4>
+						<p>詳細説明</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -35,9 +35,9 @@
 					</div>
 					<div class="col-md-4 fh5co-staff">
 						<img src="images/person2.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Nathalie Kosley</h3>
-						<h4>Co-Founder, CTO</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<h3>やった事や経緯</h3>
+						<h4>補足</h4>
+						<p>詳細説明</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -48,9 +48,9 @@
 					</div>
 					<div class="col-md-4 fh5co-staff">
 						<img src="images/person4.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Yanna Kuzuki</h3>
-						<h4>Co-Founder, Principal</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<h3>やった事や経緯</h3>
+						<h4>補足</h4>
+						<p>詳細説明</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -62,7 +62,7 @@
 				</div>
 			</div>
 
-			<div class="fh5co-counters" style="background-image: url(images/hero.jpg);" data-stellar-background-ratio="0.5" id="counter-animate">
+			{{--<div class="fh5co-counters" style="background-image: url(images/hero.jpg);" data-stellar-background-ratio="0.5" id="counter-animate">
 				<div class="fh5co-narrow-content animate-box">
 					<div class="row" >
 						<div class="col-md-4 text-center animate-box">
@@ -79,10 +79,10 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>--}}
 
 			<div class="fh5co-narrow-content fh5co-border-bottom">
-				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">This Is What <span>We Love To Do</span></h2>
+				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">好きな事 <span></span></h2>
 				<div class="row">
 					<div class="col-md-6">
 						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
@@ -90,8 +90,8 @@
 								<i class="icon-strategy"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Strategy</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>趣味１</h3>
+								<p>説明</p>
 							</div>
 						</div>
 					</div>
@@ -101,8 +101,8 @@
 								<i class="icon-telescope"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Explore</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>趣味２</h3>
+								<p>説明</p>
 							</div>
 						</div>
 					</div>
@@ -113,8 +113,8 @@
 								<i class="icon-circle-compass"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Direction</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>趣味３</h3>
+								<p>説明</p>
 							</div>
 						</div>
 					</div>
@@ -124,8 +124,8 @@
 								<i class="icon-tools-2"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Expertise</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>趣味４</h3>
+								<p>説明</p>
 							</div>
 						</div>
 					</div>
@@ -137,21 +137,21 @@
 			<div class="fh5co-narrow-content">
 				<div class="row">
 					<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-						<h1 class="fh5co-heading-colored">Start Your Project Now!</h1>
+						<h1 class="fh5co-heading-colored">普段の生活</h1>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-						<p class="fh5co-lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<p class="fh5co-lead">業務でやっている事</p>
 						<p><a href="#" class="btn btn-primary btn-outline">Get Started</a></p>
 					</div>
 					<div class="col-md-7 col-md-push-1">
 						<div class="row">
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								<p>休みの日にしている事</p>
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								<p>業務外で勉強している事</p>
 							</div>
 						</div>
 					</div>

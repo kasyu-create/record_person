@@ -8,46 +8,46 @@
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Illustration, Branding</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Packaging</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding, Web</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_4.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Logo, Branding, Web</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_5.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Packaging, Branding</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_6.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block visible-sm-block"></div>
@@ -55,23 +55,23 @@
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Web, Illustration</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_8.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Branding, Web</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="/work">
 							<img src="images/work_1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-							<h3 class="fh5co-work-title">Work Title Here</h3>
-							<p>Illustration, Branding</p>
+							<h3 class="fh5co-work-title">ここに人物名を記述します</h3>
+							<p>ここにジャンルを記述します</p>
 						</a>
 					</div>
 					<div class="clearfix visible-md-block"></div>
@@ -87,19 +87,19 @@
 		            	<figure>
 		            		<img src="images/testimonial_person2.jpg" alt="Free HTML5 Bootstrap Template">
 		            	</figure>
-		              	<p class="text-center quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained. &rdquo; <cite class="author">&mdash; Ferdinand A. Porsche</cite></p>
+		              	<p class="text-center quote">&ldquo;名言を入れます &rdquo; <cite class="author">&mdash; 人物名</cite></p>
 		            </div>
 		            <div class="item">
 		            	<figure>
 		            		<img src="images/testimonial_person3.jpg" alt="Free HTML5 Bootstrap Template">
 		            	</figure>
-		              	<p class="text-center quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. &rdquo;<cite class="author">&mdash; Steve Jobs</cite></p>
+		              	<p class="text-center quote">&ldquo;名言を入れます &rdquo;<cite class="author">&mdash; 人物名</cite></p>
 		            </div>
 		            <div class="item">
 		            	<figure>
 		            		<img src="images/testimonial_person4.jpg" alt="Free HTML5 Bootstrap Template">
 		            	</figure>
-		              	<p class="text-center quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly. &rdquo;<cite class="author">&mdash; Frank Chimero</cite></p>
+		              	<p class="text-center quote">&ldquo;名言を入れます &rdquo;<cite class="author">&mdash; 人物名</cite></p>
 		            </div>
 		          </div>
 				</div>
@@ -107,7 +107,7 @@
 
 
 			<div class="fh5co-narrow-content">
-				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">This Is What <span>We Love To Do</span></h2>
+				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Record person <span>で出来ること</span></h2>
 				<div class="row">
 					<div class="col-md-6">
 						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
@@ -115,8 +115,8 @@
 								<i class="icon-strategy"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Strategy</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>出来ること１</h3>
+								<p>その内容 </p>
 							</div>
 						</div>
 					</div>
@@ -126,8 +126,8 @@
 								<i class="icon-telescope"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Explore</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>出来ること２</h3>
+								<p>その内容 </p>
 							</div>
 						</div>
 					</div>
@@ -138,8 +138,8 @@
 								<i class="icon-circle-compass"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Direction</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>出来ること３</h3>
+								<p>その内容 </p>
 							</div>
 						</div>
 					</div>
@@ -149,8 +149,8 @@
 								<i class="icon-tools-2"></i>
 							</div>
 							<div class="fh5co-text">
-								<h3>Expertise</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+								<h3>出来ること４</h3>
+								<p>その内容 </p>
 							</div>
 						</div>
 					</div>
@@ -163,15 +163,15 @@
 					<div class="row" >
 						<div class="col-md-4 text-center">
 							<span class="fh5co-counter js-counter" data-from="0" data-to="67" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Clients Worked With</span>
+							<span class="fh5co-counter-label">登録されているジャンル</span>
 						</div>
 						<div class="col-md-4 text-center">
 							<span class="fh5co-counter js-counter" data-from="0" data-to="130" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Completed Projects</span>
+							<span class="fh5co-counter-label">登録されている人物</span>
 						</div>
 						<div class="col-md-4 text-center">
 							<span class="fh5co-counter js-counter" data-from="0" data-to="27232" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Line of Codes</span>
+							<span class="fh5co-counter-label">関連人物も合わせた登録人数</span>
 						</div>
 					</div>
 				</div>

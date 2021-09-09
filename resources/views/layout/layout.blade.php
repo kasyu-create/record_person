@@ -80,12 +80,10 @@
         </nav>
 
         <div class="fh5co-footer">
-          <p><small>&copy; 2016 Nitro Free HTML5. All Rights Reserved.</span> <span>Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> </span> <span>Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></small></p>
+          <p><small>&copy; 2021.haruki_higashino</span> <span>Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> </span> <span>Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></small></p>
           <ul>
-            <li><a href="#"><i class="icon-facebook"></i></a></li>
-            <li><a href="#"><i class="icon-twitter"></i></a></li>
-            <li><a href="#"><i class="icon-instagram"></i></a></li>
-            <li><a href="#"><i class="icon-linkedin"></i></a></li>
+            <li><a href="https://twitter.com/m75cCMbYv5LEsO8"><i class="icon-twitter"></i></a></li>
+            <li><a href="https://github.com/kasyu-create"><i class="icon-github"></i></a></li>
           </ul>
         </div>
 
